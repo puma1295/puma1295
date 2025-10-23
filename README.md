@@ -45,9 +45,10 @@ Built and tested regression and parametric models for mutual fund portfolio eval
 ## 🌐 Connect with Me  
 
 -  [LinkedIn](https://www.linkedin.com/in/polina-voronina-896819b5)  
--  [vorosonova@gmail.com](mailto:vorosonova@gmail.com)  
--  Currently open to remote data analytics & data science opportunities  
+-  [vorosonova@gmail.com](mailto:vorosonova@gmail.com)
+  
+Currently open to remote data analytics & data science opportunities  
 
 ---
 
-*“Data tells a story — I make sure it’s the right one.”*  
+*“Data tells a story. I make sure it’s the right one.”*  
