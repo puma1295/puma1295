@@ -49,7 +49,7 @@ Built and tested regression and parametric models for mutual fund portfolio eval
   
 Currently open to remote data analytics & data science opportunities  
 
-Quik note: some of my projects are transalated from Russian. To minimize possible mistakes AI tools we used.
----
 
+---
+Quik note: some of my projects are transalated from Russian. To minimize possible mistakes AI tools we used.
 *“Data tells a story. I make sure it’s the right one.”*  
