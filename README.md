@@ -20,7 +20,7 @@ I’m a team-oriented professional who enjoys collaboration, structure, and cont
 
 **Languages:** Python, R, SQL, DAX  
 **Analytics & Visualization:** Power BI, Tableau, Databricks, Excel, R Studio  
-**Machine Learning & Data Science:** pandas, NumPy, scikit-learn
+**Machine Learning & Data Science:** pandas, NumPy, scikit-learn  
 **Databases & Tools:** SQL Server Management Studio, Microsoft Azure  
 **Other Tools:** Canva, Photoshop, WordPress, Figma  
 
@@ -49,6 +49,7 @@ Built and tested regression and parametric models for mutual fund portfolio eval
   
 Currently open to remote data analytics & data science opportunities  
 
+Quik note: some of my projects are transalated from Russian. To minimize possible mistakes AI tools we used.
 ---
 
 *“Data tells a story. I make sure it’s the right one.”*  
